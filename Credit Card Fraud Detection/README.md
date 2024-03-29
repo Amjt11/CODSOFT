@@ -1,1 +1,1 @@
-# Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees,or Random Forests to classify transactions as fraudulent or legitimate 
+# A model to detect fraudulent credit card transactions. Dataset contains information about credit card transactions, and this experiment is with algorithms like Logistic Regression, Decision Trees, Random Forests to classify transactions as fraudulent or legitimate 
